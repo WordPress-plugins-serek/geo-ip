@@ -2,7 +2,7 @@
    /*
    Plugin Name: Geo IP
    Plugin URI: https://odd-one-out.serek.eu
-   Description: Gets the country code from visiters IP adress using an AJAX call to freegeoip.net. Returns other custom data. Stores the data in a cookie that expires in 24 hours
+   Description: Gets the country code from visiters IP adress using an AJAX call to freegeoip.net. Stores the data in a cookie that expires in 24 hours
    Version: 1.0
    Author: Poul Serek
    Author URI: https://odd-one-out.serek.eu
