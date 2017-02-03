@@ -1,7 +1,7 @@
 <?php
    /*
    Plugin Name: Geo IP
-   Plugin URI: https://odd-one-out.serek.eu
+   Plugin URI: https://odd-one-out.serek.eu/amazon-ajax-javascript-link-localiser/
    Description: Gets the country code from visiters IP adress using an AJAX call to freegeoip.net. Stores the data in a cookie that expires in 24 hours
    Version: 1.0
    Author: Poul Serek
